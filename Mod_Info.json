@@ -1,0 +1,11 @@
+{
+"id":"dynamicreputationoverhaul",
+"name":"Dynamic Reputation Overhaul",
+"version":"0.1 prerelease",
+"description":"description",
+"gameVersion":"0.95a-RC15",
+"author":"TobiaF",
+//"replace":["data/characters/skills/automated_ships.skill"],
+"jars":["jars/DynamicReputationOverhaul.jar"],
+"modPlugin":"data.scripts.DRO_ModPlugin"
+}
