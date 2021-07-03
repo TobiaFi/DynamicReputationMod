@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="DynamicReputationOverhaul:jar">
-    <output-path>$PROJECT_DIR$/jars/DynamicReputationOverhaul_jar</output-path>
-    <root id="archive" name="Dynamic Reputation Overhaul.jar">
-      <element id="module-output" name="Dynamic Reputation Overhaul" />
-    </root>
-  </artifact>
-</component>
